@@ -6,3 +6,4 @@
 - RESTful Web API
 - Blazor Webassembly
 - Bootrap v5
+- Integration of PayPal Payment Gateway
