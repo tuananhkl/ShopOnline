@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c6450fb4_002D8a93_002D4446_002D8982_002Db47895c10bbc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from UnitTest1.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9FE19183-4F64-4440-9831-CC903901A78F::net6.0::ShopOnline.Api.Tests.Controller.ProductControllerTests.ProductController_GetItems_ReturnsSuccess&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9FE19183-4F64-4440-9831-CC903901A78F::net6.0::ShopOnline.Api.Tests.Controller.ProductControllerTests.ProductController_GetItem_ReturnsSuccess&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9FE19183-4F64-4440-9831-CC903901A78F::net6.0::ShopOnline.Api.Tests.Repository.ProductRepositoryTests.ProductRepository_GetItem_ReturnProduct&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::9FE19183-4F64-4440-9831-CC903901A78F::net6.0::ShopOnline.Api.Tests.Repository.ProductRepositoryTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Cocooil/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Curology/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Dtos/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Gameboy/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Sandles/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=trainsers/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>

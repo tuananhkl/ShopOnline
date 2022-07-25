@@ -1,0 +1,12 @@
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/bin/Debug/net6.0/ShopOnline.Models.deps.json
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/bin/Debug/net6.0/ShopOnline.Models.dll
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/bin/Debug/net6.0/ShopOnline.Models.pdb
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.csproj.AssemblyReference.cache
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.AssemblyInfoInputs.cache
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.AssemblyInfo.cs
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.csproj.CoreCompileInputs.cache
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.dll
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/refint/ShopOnline.Models.dll
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ShopOnline.Models.pdb
+/Users/thn/RiderProjects/ShopOnlineSolution/ShopOnline.Models/obj/Debug/net6.0/ref/ShopOnline.Models.dll
